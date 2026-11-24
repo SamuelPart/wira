@@ -1,3 +1,0 @@
-#!/bin/sh
-# Lanzador de Screapers (sin terminal): ejecuta la interfaz de escritorio.
-exec python3 -m screapers "$@"
